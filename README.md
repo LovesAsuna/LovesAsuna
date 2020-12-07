@@ -2,7 +2,7 @@
 
 🔭 I am now Working on Mirait-Bot, A bot for QQ based on Mirai framework!
 
-🌱 Now learning  Java & Kotlin  | Algorithm
+🌱 Now learning  Java & Kotlin & Python | Algorithm
 
 ### Github Stats
 
