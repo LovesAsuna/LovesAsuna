@@ -40,12 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust             4 hrs 7 mins    █████████████████▓░░░░░░░   70.60 %
-Kotlin           30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Java             24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-TOML             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Markdown         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Vue.js           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
