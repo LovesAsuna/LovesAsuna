@@ -40,7 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Kotlin       5 hrs 33 mins   ██████████████▓░░░░░░░░░░   58.25 %
+Rust         1 hr 51 mins    █████░░░░░░░░░░░░░░░░░░░░   19.48 %
+Java         1 hr 39 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
+TOML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Properties   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
