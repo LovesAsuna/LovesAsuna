@@ -40,10 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Text         3 mins          ████████████████████▒░░░░   81.06 %
-ObjectiveC   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-Python       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-C            0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
