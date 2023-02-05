@@ -40,8 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust   12 mins         ██████████████▒░░░░░░░░░░   57.17 %
-C++    9 mins          ██████████▓░░░░░░░░░░░░░░   42.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
