@@ -40,11 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust            1 hr 4 mins     ████████████████████████░   96.53 %
-Kotlin          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-ObjectiveC      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-AUTO_DETECTED   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-C++             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
