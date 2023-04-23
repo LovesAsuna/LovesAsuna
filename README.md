@@ -40,7 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Rust             3 hrs 33 mins   ███████████████████░░░░░░   75.48 %
+JavaScript       40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
+TOML             24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Vue.js           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
