@@ -40,12 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       40 mins         ████████████████▓░░░░░░░░   66.39 %
-Rust             17 mins         ███████░░░░░░░░░░░░░░░░░░   27.64 %
-Vue.js           3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
