@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-snake-gif
     steps:
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
