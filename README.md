@@ -1,8 +1,6 @@
 <img src="header.png"/>
 
-📫 Now major in Computer Science
-
-🔭 I am now Working on [SimpleBot](https://github.com/LovesAsuna/SimpleBot), A bot for QQ based on RICQ framework!
+📫 Now working in Bytedance
 
 🌱 Now learning Rust & Go & Python | Algorithm
 
